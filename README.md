@@ -1,4 +1,5 @@
 # Twitch Personalized Search and Recommendation Engine
+## This is the backend code of the project
 * Designed and developed a full-stack Spring Boot application enabling users to search for and receive recommendations
 on Twitch resources (streams, videos, clips).
 * Created a responsive, user-friendly web interface using React and Ant Design.
